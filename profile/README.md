@@ -15,18 +15,16 @@
 8. Siddharth Dayal 21BCY10019
 9. Yashsh Sujithkumar Randive 21BCE11334
 
-
-
-Dr. Hariharan R
 ## Supervisor
+Dr. Hariharan R
 
-Dr. Pushpdant Jain
 ## Reviewer I
+Dr. Pushpdant Jain
 
-Dr. M. Manimaran
 ## Reviewer II
+Dr. M. Manimaran
 
-In partial fulfillment for the award of the degree of Bachelor of Technology in Computer Sciences and Engineering
+###### In partial fulfillment for the award of the degree of Bachelor of Technology in Computer Sciences and Engineering
 
 VIT Bhopal University
 2023-24
